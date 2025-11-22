@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaiPrakash-CH
+- 👋 Hi, I’m @sprch
 
 <!---
 SaiPrakash-CH/SaiPrakash-CH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
